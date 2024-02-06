@@ -60,4 +60,4 @@ The following technologies were used in this project:
 
 ## License
 
-The MET Landing Page project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
+The MET Landing Page project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
